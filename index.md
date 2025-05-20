@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 欢迎来到 MyResearchLab
 
 - 🚀 项目1：[AwesomeAI](https://github.com/MyResearchLab/AwesomeAI)
